@@ -10,5 +10,17 @@ After completing this project, you will have better grip on working with pandas.
 - Dataframe slicing
 - Dataframe aggregation
 - Pivot table operations
+==============================
+## Project - Visualization for company stakeholders
 
+[Link to Project - Visualization for company stakeholders](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Visualization%20for%20company%20stakeholders.ipynb)
+
+Why solve this project?
+After completing this project, you will have a better understanding of data visualization techniques. In this project, you will be applying the following concepts:
+
+- Bar plotting
+- Scatter plotting
+- Kernel Density plotting
+- Subplot operations
+- Axes modifications
 ___

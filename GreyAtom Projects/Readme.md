@@ -1,6 +1,6 @@
 Selected Projects and Outcomes
 ==============================
-## Subreddit Recommender System for Reddit users
+## Project - Loan Approval Analysis
 
 [Link to Subreddit Recommendor Project](https://github.com/bhattbhavesh91/Subreddit_Recommendation_SVD)
 

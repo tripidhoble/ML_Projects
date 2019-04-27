@@ -23,4 +23,18 @@ After completing this project, you will have a better understanding of data visu
 - Kernel Density plotting
 - Subplot operations
 - Axes modifications
+
+==============================
+## Project - Olympic Hero
+
+[Link to Project - Olympic Hero](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Olympic%20Hero.ipynb)
+
+Why solve this project?
+After completing this project, you will have a better understanding of data handling with python(pandas). In this project, you will be applying the following concepts :
+
+- Dataframe operations
+- Conditional statement and loops
+- List operations
+- Bar Plotting
+- Mathematical operations
 ___

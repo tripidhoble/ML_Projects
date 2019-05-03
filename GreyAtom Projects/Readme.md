@@ -37,4 +37,17 @@ After completing this project, you will have a better understanding of data hand
 - List operations
 - Bar Plotting
 - Mathematical operations
+
+==============================
+## Project - Feature Selection - Forest Type Cover Prediction
+
+[Link to Project - Feature Selection - Forest Type Cover Prediction](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20Feature%20Selection%20-%20Forest%20Type%20Cover%20Prediction.ipynb)
+
+Why solve this project ?
+After completing this project, you will have the better understanding of how feature selection effects the performance of a machine learning model. In this project, you will apply the following concepts.
+
+- How are the features important to our model.
+- ow to select the most significant features out of many.
+- How to perform univariate feature selection.
+- How to perform multivariate feature selection.
 ___

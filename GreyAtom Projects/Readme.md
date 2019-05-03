@@ -50,4 +50,18 @@ After completing this project, you will have the better understanding of how fea
 - ow to select the most significant features out of many.
 - How to perform univariate feature selection.
 - How to perform multivariate feature selection.
+
+==============================
+## Project - LogisticRegression - Insurance claim prediction
+
+[Link to Project - LogisticRegression - Insurance claim prediction](https://github.com/tripidhoble/GreyAtom-Material/blob/master/GreyAtom%20Projects/Project%20-%20LogisticRegression%20-%20Insurance%20claim%20prediction.ipynb)
+
+Why solve this project?
+After completing this project, you will have the better understanding of how to build a logistic regression model. In this project, you will apply the following concepts.
+
+- Train-test split
+- Correlation between the features
+- Logistic Regression
+- Auc score
+- Roc auc plot
 ___
